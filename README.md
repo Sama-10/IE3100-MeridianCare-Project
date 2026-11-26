@@ -4,7 +4,7 @@
 **Programme:** B.Sc. (Hons) in IT — Computer Systems & Network Engineering  
 **Institution:** SLIIT | Year 3 – Semester 1
 
-📄 **[Final Consultancy Report (PDF)](docs/Final_Consultancy_Report.pdf)** &nbsp;|&nbsp; 🎤 **[Final Presentation (PPTX)](docs/MeridianCare_Final_Presentation_finalize.pptx)**
+📄 **[Final Consultancy Report (PDF)](./docs/Final_Consultancy%20Report.pdf)** &nbsp;|&nbsp; 🎤 **[Final Presentation (PPTX)](./docs/MeridianCare_Final_Presentation_finalize.pptx)**
 
 ---
 
@@ -30,7 +30,7 @@ MeridianCare operates **12 clinics** and **2 diagnostic laboratories** on ageing
 
 ## 🏗️ Solution at a Glance
 
-![Target Architecture](images/01-target-architecture.png)
+![Target Architecture](./images/01-target-architecture.png)
 
 - **Workload distribution** — load balancer + read replicas across two zones
 - **Dynamic scalability** — auto-scale 6 → 40 servers for campaign spikes; spot for stateless workers
@@ -41,22 +41,22 @@ MeridianCare operates **12 clinics** and **2 diagnostic laboratories** on ageing
 - **Transitional cloud bursting** — on-prem overflow to cloud during migration
 
 ### High Availability & Disaster Recovery
-![DR Architecture](images/02-dr-architecture.png)
+![DR Architecture](./images/02-dr-architecture.png)
 
 ### Elastic Scaling for Campaign Peaks
-![Scalability](images/03-scalability.png)
+![Scalability](./images/03-scalability.png)
 
 ### Legacy Clinic Integration & Cloud Bursting
-![Data Normalization](images/04-data-normalization.png)
+![Data Normalization](./images/04-data-normalization.png)
 
 ---
 
 ## 📊 Results Evidence
 
-![Executive Summary Table](images/05-executive-summary-table.png)
+![Executive Summary Table](./images/05-executive-summary-table.png)
 
 ### Three-Year Cost Comparison
-![Cost Comparison](images/06-cost-comparison.png)
+![Cost Comparison](./images/06-cost-comparison.png)
 
 > On-premise: **$2,301,000** · Cloud: **$1,743,270** · **Saving: $557,730 (24.2%)**
 
@@ -72,9 +72,9 @@ MeridianCare operates **12 clinics** and **2 diagnostic laboratories** on ageing
 
 ## 🎤 Presentation
 
-![Title Slide](images/07-presentation-title.png)
+![Title Slide](./images/07-presentation-title.png)
 
-Full deck available in the [`docs/`](docs/) folder.
+Full deck available in the [`docs/`](./docs/) folder.
 
 ---
 
