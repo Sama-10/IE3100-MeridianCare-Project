@@ -4,7 +4,7 @@
 **Programme:** B.Sc. (Hons) in IT — Computer Systems & Network Engineering  
 **Institution:** SLIIT | Year 3 – Semester 1
 
-📄 [Final Consultancy Report](Final_Consultancy_Report.pdf) &nbsp;|&nbsp; 🎤 [Final Presentation](MeridianCare_Final_Presentation.pptx)
+📄 **[Final Consultancy Report (PDF)](docs/Final_Consultancy_Report.pdf)** &nbsp;|&nbsp; 🎤 **[Final Presentation (PPTX)](docs/MeridianCare_Final_Presentation_finalize.pptx)**
 
 ---
 
@@ -74,7 +74,7 @@ MeridianCare operates **12 clinics** and **2 diagnostic laboratories** on ageing
 
 ![Title Slide](images/07-presentation-title.png)
 
-Full deck: [MeridianCare_Final_Presentation.pptx](MeridianCare_Final_Presentation.pptx)
+Full deck available in the [`docs/`](docs/) folder.
 
 ---
 
